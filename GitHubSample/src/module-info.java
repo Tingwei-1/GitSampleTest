@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author endle
+ *
+ */
+module GitHubSample {
+}
